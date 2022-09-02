@@ -11,14 +11,14 @@
 
 ### Bibliotecas e suas versões
 
-dash==2.6.1
-dash-bootstrap-components==1.2.1
-dash-core-components==2.0.0
-dash-html-components==2.0.0
-gunicorn==20.1.0
-numpy==1.23.2
-pandas==1.4.3
-plotly==5.10.0
+- dash==2.6.1
+- dash-bootstrap-components==1.2.1
+- dash-core-components==2.0.0
+- ash-html-components==2.0.0
+- gunicorn==20.1.0
+- numpy==1.23.2
+- pandas==1.4.3
+- plotly==5.10.0
 
 
 ### Index
@@ -44,4 +44,3 @@ plotly==5.10.0
 
 #### 
 Projeto
-image.png
